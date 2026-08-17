@@ -1,16 +1,17 @@
 ## Demo
 
 ### Kepler-444 Star System
-<img width="1912" height="921" alt="Kepler-444 Star System" src="https://github.com/user-attachments/assets/ac1eb105-90d4-4dec-a9ac-19e366423690" />
+<img width="1919" height="856" alt="Screenshot 2026-08-16 105233" src="https://github.com/user-attachments/assets/7dcae739-eece-4bf5-ac70-7787befa12f7" />
 
 ### 6,000+ Confirmed Exoplanets Mapped in 3D
-<img width="1919" height="856" alt="6000+ Confirmed Exoplanets" src="https://github.com/user-attachments/assets/ea8e81cd-04fd-4a6e-9b8d-d4ac972669fc" />
+<img width="1912" height="911" alt="Screenshot 2026-08-16 104411" src="https://github.com/user-attachments/assets/0c741f32-c5cb-4639-8874-8ff09f13e801" />
 
 ### Full Milky Way View
-<img width="1912" height="911" alt="Full Milky Way View" src="https://github.com/user-attachments/assets/7369f991-56c1-427d-8797-1764ae2c5d61" />
+<img width="1912" height="921" alt="Screenshot 2026-08-16 104437" src="https://github.com/user-attachments/assets/c3b4649f-4c0d-4c92-b238-937109974ee0" />
 
 ### Solar System Tour
-https://github.com/user-attachments/assets/435cc217-d157-494f-8d84-327ea2bebaf3
+https://github.com/user-attachments/assets/ac1221f9-ab09-4065-bf93-a9ff56787547
+
 
 ---
 
